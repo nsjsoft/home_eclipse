@@ -6,6 +6,7 @@ public class GitNsj {
 		// TODO Auto-generated method stub
 		System.out.println("Git Eclipse Test!!!");
 		System.out.println("Git NSJNOTE Eclipse Test!!!");
+		System.out.println("Git NSJDESK Eclipse Test!!!");
 		
 	}
 
