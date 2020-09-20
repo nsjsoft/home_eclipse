@@ -49,7 +49,7 @@ public class nsjTestClass {
 				
 		String url="jdbc:oracle:thin:@127.0.0.1:1521:orcl";
 		String user = "scott";
-		String pass = "1234"; 
+		String pass = "tiger"; 
 		
 		Class.forName("oracle.jdbc.OracleDriver");
 		
