@@ -1,1 +1,1 @@
-select * from EMP;
+select * from salgrade;
